@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://owbnknoxville.net"><img alt="Website" src="https://img.shields.io/badge/Visit%20Our%20Website-MCKN-blue?style=for-the-badge&logo=worldofdarkness" /></a>
   <a href="https://discord.gg/N5AKyFByth"><img alt="Join Discord" src="https://img.shields.io/discord/799311464086110260?color=%237289DA&label=Discord&logo=discord&style=for-the-badge" /></a>
-  <a href="https://github.com/mckn-larp"><img alt="Github Org" src="https://img.shields.io/badge/Github-Org-blue?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/mckn-larp"><img alt="Github Org" src="https://img.shields.io/badge/Github%20Org-Home-blue?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
