@@ -163,8 +163,6 @@ Hunters don’t always understand what they’re fighting—but they fight anywa
 
 Eastern Tennessee is **fractured across veils**, where supernatural geography bleeds into the mundane. Below are the **notable metaphysical features** that shape the region’s spiritual reality:
 
----
-
 ### **Umbra (Spirit World)**
 - **Gauntlet Thickness**: Varies wildly—**thin** near ancient groves and caerns, **thick** in industrial zones like Oak Ridge.
 - **Twisted Umbra**: Around Oak Ridge and TVA facilities, the Umbra is corrupted. Spirits appear mutated, pain-sick, or half-metal.
@@ -172,14 +170,10 @@ Eastern Tennessee is **fractured across veils**, where supernatural geography bl
   - *Smoky Mountain Veins*: Natural “veins” of spiritual power run deep under the Smokies. Dreamspeakers, Uktena, and Nunnehi use them for long-range rituals.
   - *Brushy Mountain Scar*: A rift created when the Sept of the Broken Spear fell. A spiritual sinkhole now oozes banes and sorrow-spirits.
 
----
-
 ### **Shadowlands (Land of the Dead)**
 - **Bleed Points**: 
   - *Old St. Mary’s Hospital* in Knoxville and *White Oak Flats Cemetery* in Gatlinburg, Tennessee are thinned places where Wraiths cross easier.
 - **Spectral Taint**: Shadowlands around Oak Ridge shimmer with radiation scars and sorrow-echoes. Even Spectres hesitate here.
-
----
 
 ### **The Dreaming**
 - **Trods**:
@@ -187,19 +181,13 @@ Eastern Tennessee is **fractured across veils**, where supernatural geography bl
   - *Gatlinburg Mirrorlight*: A hidden Trod through art galleries, carnival mirrors, and vintage souvenir shops. The Seelie and Unseelie use this as a route to Freeholds.
 - **Freehold Flux**: The Dreaming reflects the land's turmoil. Glamour-rich trods become choked with banality when mortals desecrate sacred places.
 
----
-
 ### **Digital Web**
 - **The TVA Nexus**: Oak Ridge’s Technocratic constructs anchor an entropic firewall here. The Digital Web is fragmented and glitchy nearby.
 - **Data-Wyrm Infection**: Rumors of corrupted constructs “possessed” by Wyrm-code run rampant near DOE and ex-nuclear networks.
 
----
-
 ### **Horizon & Deep Umbra**
 - **The Forest of Distant Echoes**: A **Verbena** Horizon Realm tucked into Cherokee National Forest. Time moves strangely here; dreams become tangible.
 - **Wyld Shards**: Slivers of Deep Umbra drift down through old ley lines in the mountains. They're unstable but potent with pure Wyld energy—sought by Garou, feared by Mages.
-
----
 
 ### **Key Regional Oddities**
 - **Cloaked Caerns**: Hidden sanctums exist that can only be found during eclipses or lunar conjunctions. Many are protected by ancestor-spirits or bound wyrdlings.
@@ -208,7 +196,7 @@ Eastern Tennessee is **fractured across veils**, where supernatural geography bl
 
 ---
 
-**Reminder for Players:** Most supernatural beings are aware of *one layer*—those who can see beyond often pay a price. The veils here are thin, but not forgiving.
+> **Reminder for Players:** Most supernatural beings are aware of *one layer*—those who can see beyond often pay a price. The veils here are thin, but not forgiving.
 
 ---
 
