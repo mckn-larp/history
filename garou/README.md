@@ -43,7 +43,7 @@ Garou packs are spread across rural Appalachia, using forests, mountains, and va
 - **The Serpent's Spine**  
   Tied to the **Uktena**, this pack guards old ley lines deep in the Smoky Mountains. Their rituals and knowledge of forgotten magic protect the spiritual arteries of Gaia from corruption.
 
-- ** Grove's Edge**  
+- **Grove's Edge**  
   Fierce **Black Fury** and other female warriors who dwell near long-lost sacred groves. They act as defenders of the land’s most vulnerable places, striking swiftly against those who would defile them.
 
 - **The Hollow Peace**  
