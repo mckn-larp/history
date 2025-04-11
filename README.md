@@ -20,7 +20,7 @@ The Garou gave up **Knoxville** to the Sabbat in exchange for help holding off t
 
 ## Key Factions
 
-## [Sabbat](./sabbat/)
+## [Sabbat](./sabbat/README.md)
 
 The Sabbat control **Knoxville** and its immediate surrounds, having ousted rival Kindred with brutal force. While deeply divided internally, their shared goal is clear: fortify their power, defend against the Wyrm’s advance from **Oak Ridge**, and eventually purge the Garou—despite the current uneasy alliance.
 
