@@ -1,4 +1,4 @@
-# The Sabbat of Eastern Tennessee
+# Sabbat of Eastern Tennessee
 
 [← Back to History](../README.md)  
 
