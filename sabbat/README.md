@@ -1,4 +1,4 @@
-# The Sabbat in Knoxville (Player Guide)
+# The Sabbat in Knoxville
 
 [← Back to History](../README.md)  
 
