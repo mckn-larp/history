@@ -1,10 +1,8 @@
-# The Garou in Knoxville (Player Guide)
+# The Garou of Eastern Tennessee
 
 [← Back to History](../README.md)  
 
 -----
-# The Garou in Knoxville (Player Guide)
-
 ## Summary
 
 The Garou of Eastern Tennessee are locked in a spiritual and physical war against the **Wyrm**, fighting to protect their **caerns**, sacred sites, and Gaia herself. They’ve struck an uneasy **alliance with the Sabbat**, ceding ground to hold a buffer zone between their territories and the corrupted lands of **Oak Ridge**. While practical, the alliance has created divisions, especially among younger Garou questioning the cost of compromise.
