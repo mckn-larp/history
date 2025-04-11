@@ -194,13 +194,9 @@ Eastern Tennessee is **fractured across veils**, where supernatural geography bl
 - **Shifting Gauntlets**: In areas of trauma or intense memory (battlefields, desecrated holy sites), the Gauntlet “breathes,” thinning and thickening with emotional resonance.
 - **Echo-Walkers**: Strange entities that move *between* veils. They resemble afterimages of people who died violently or beings that slipped through during Maelstrom tears.
 
----
-
 > **Reminder for Players:** Most supernatural beings are aware of *one layer*—those who can see beyond often pay a price. The veils here are thin, but not forgiving.
 
 ---
-
-> For more detail, check your genre guide or ask the ST team for what's available to your character.
 
 ## Themes to Expect
 
@@ -218,6 +214,8 @@ Eastern Tennessee is **fractured across veils**, where supernatural geography bl
 - **The Wyrm is growing**, and nobody is safe.
 - Strange things happen **in the forests, old factories, and forgotten places**.
 - Not everything is what it seems—**even allies can turn**.
+
+> For more detail, check your genre guide or ask the ST team for what's available to your character.
 
 ---
 <p align="center" style="background-color: #000; padding: 20px;">
