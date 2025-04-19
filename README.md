@@ -45,8 +45,6 @@ The Sabbat control **Knoxville** and its immediate surrounds, having ousted riva
 - Religious fervor is real: your war is holy, and **Knoxville is sacred ground**.
 - Expect inner conflict: balancing defense against the Wyrm with the drive to subvert the Garou compact.
 
----
-
 ## [Garou](./2-Garou/README.md)
 
 The **Garou** defend what’s left of Gaia in Eastern Tennessee. They protect **rural caerns**, battle the **Wyrm's corruption** in Oak Ridge, and maintain a tense alliance with the Sabbat. But the cost of that alliance weighs heavily on their spirits.
@@ -72,8 +70,6 @@ The **Garou** defend what’s left of Gaia in Eastern Tennessee. They protect **
 - Pack ties matter—survival often depends on your chosen family.
 - Some want to end the alliance with the Sabbat. Others want to double down. Where do you stand?
 
----
-
 ## [Changeling](./3-Changeling/README.md)
 
 The Fae live in the cracks of the world—between reality and dreams. In Eastern Tennessee, **Changelings** are scattered across mountain hollows, tourist traps, and ancient groves. They see the Wyrm’s rise as an existential threat, and many are starting to fight back.
@@ -92,8 +88,6 @@ The Fae live in the cracks of the world—between reality and dreams. In Eastern
 - Glamour-feeding off tourists.
 - Disputed **trods** (magical paths between worlds).
 - Changelings turning to **Garou and Mages** for allies—or to **hunters** to strike at rivals.
-
----
 
 ## [Wraith](./4-Wraith/README.md)
 
@@ -114,8 +108,6 @@ Eastern Tennessee is haunted—literally. **Wraiths** tied to war, genocide, and
 - Some Garou and Mages rely on them for spiritual insight.
 - But not all ghosts are friendly… and not all spirits want balance.
 
----
-
 ## [Mage](./5-Mage/README.md)
 
 **Mages** tap into raw reality. In Tennessee, the war between the Technocracy and the Traditions is boiling under the surface.
@@ -134,8 +126,6 @@ Eastern Tennessee is haunted—literally. **Wraiths** tied to war, genocide, and
 - **Hidden Reactor**: Technocratic node near Kingston.
 - **Forest of Distant Echoes**: Horizon Realm hidden in Cherokee forest.
 - **The Lodge of Black River**: Verbena chantry near Douglas Lake.
-
----
 
 ## [Hunter](./6-Hunter/README.md)
 
@@ -156,8 +146,6 @@ Hunters don’t always understand what they’re fighting—but they fight anywa
 - Some hunters know about the **Garou-Sabbat alliance** and want to break it.
 - Others see the Wyrm as the true enemy.
 - Blackthorn is beginning to identify **Oak Ridge** as the epicenter of something catastrophic.
-
----
 
 ## [Cosmology](./7-Cosmology/README.md)
 
@@ -195,8 +183,6 @@ Eastern Tennessee is **fractured across veils**, where supernatural geography bl
 - **Echo-Walkers**: Strange entities that move *between* veils. They resemble afterimages of people who died violently or beings that slipped through during Maelstrom tears.
 
 > **Reminder for Players:** Most supernatural beings are aware of *one layer*—those who can see beyond often pay a price. The veils here are thin, but not forgiving.
-
----
 
 ## Themes to Expect
 
