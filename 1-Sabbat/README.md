@@ -14,17 +14,17 @@ Leadership in Knoxville is primarily **female**, with **Archbishop Sophia Gries*
 
 ## Key Locations
 
-### **Common Esbat Sites**
+### Common Esbat Sites
 - **Old City Knoxville Underground** – Rituals below the surface in crime-ridden, forgotten tunnels.
 - **Mead’s Quarry Lake** – Remote outdoor rituals near abandoned industrial ruins.
 - **Abandoned L&N Railroad Station** – Symbolic gatherings at a decaying relic of the past.
 - **St. Mary’s Hospital (Closed)** – Morbid rituals amid lingering spirits.
 - **Underground Tennessee Theatre** – For refined, urban Sabbat meetings beneath cultural landmarks.
 
-### **Typical Havens**
+### Typical Havens
 - Abandoned **warehouses**, **bank vaults**, **industrial basements**, and **suburban bunkers** throughout Knoxville, designed for defense and secrecy.
 
-### **Territory Held**
+### Territory Held
 - Downtown Knoxville  
 - University of Tennessee  
 - Industrial zones and surrounding suburbs (used as buffer areas)
@@ -68,19 +68,19 @@ Leadership in Knoxville is primarily **female**, with **Archbishop Sophia Gries*
 
 ## For Players: Themes to Explore
 
-### **Power Struggles**
+### Power Struggles
 You can rise quickly—or fall faster. Every pack has something to prove, and loyalty is tested nightly.
 
-### **Faith vs. Corruption**
+### Faith vs. Corruption
 The Wyrm is real, and it’s worse than you thought. Oak Ridge is a cursed wound, and Knoxville is the last buffer.
 
-### **Ritual & Identity**
+### Ritual & Identity
 You're not just a vampire. You’re a warrior in a sacred war. The Sabbat believe they were **chosen by Caine**—prove them right.
 
-### **Control Through Fear and Unity**
+### Control Through Fear and Unity
 From street-level packs to bishops, every level of Sabbat society is built on **fear, loyalty, and purpose**. Esbats reinforce it all.
 
-### **The Compact**
+### The Compact
 You’re working with werewolves—for now. But nobody believes it’ll last. Use it. Watch it. Break it only when it serves the cause.
 
 ---
