@@ -126,7 +126,3 @@ Eastern Tennessee’s spiritual cosmology is a battlefield of realms:
 - **Spirits**, **wraiths**, **Spectres**, and **banes** clash in unseen wars that ripple into the mortal world.
 
 This region is not just haunted—it is alive with competing realities, and those who walk its mystic paths must choose: will they preserve, exploit, or survive the forces beyond the veil?
------
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>

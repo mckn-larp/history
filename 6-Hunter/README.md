@@ -103,7 +103,3 @@ From divine missions to secular reasoning to spiritual harmony—each group has 
 ### Summary
 
 Hunters in Eastern Tennessee are no longer just shadowy defenders of forgotten towns. They are now players in a supernatural war of terrifying scope. Whether through faith, research, or force of arms, they must now decide what role they will play—isolated slayers, balanced mediators, or soldiers in an apocalyptic crusade.
------
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>

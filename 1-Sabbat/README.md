@@ -90,7 +90,3 @@ You’re working with werewolves—for now. But nobody believes it’ll last. Us
 Knoxville isn’t just a city—it’s a spiritual battlefield. The Sabbat claim it as a **holy ground in their war against ancient evil**, and you’re on the front lines. Whether you're here to rise in rank, purge the Wyrm, or carve your own path, remember:
 
 **Every move counts. Every Esbat is a test. And every shadow might hide an enemy—or an opportunity.**
------
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>

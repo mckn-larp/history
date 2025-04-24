@@ -92,7 +92,3 @@ European Changelings are concentrated in Gatlinburg and Pigeon Forge. The Seelie
 - If you play an **Unseelie**, power comes from embracing darker truths. You exploit, manipulate, and move behind the scenes.
 
 Changelings in this chronicle live between myth and memory, with ancient pathways at risk and modern ambition pressing in. Whether defending the past, shaping the present, or pursuing their own shadowy futures, the Fae of Eastern Tennessee walk a narrow path between wonder and war.
------
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>

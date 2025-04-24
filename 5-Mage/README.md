@@ -135,7 +135,3 @@ The rural expanse, ancient forests, and post-industrial shadows are home to chan
 
 > Welcome to Knoxville, where reality is negotiable and power is buried in the roots of the mountains. Choose your allies carefully—and remember: the war for the future is already underway.
 
------
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>

@@ -68,7 +68,3 @@ Wraiths deal in artifacts, soulforged relics, and forbidden secrets. The arrival
 ### Religion
 Religion for wraiths revolves around honoring the dead and preserving the afterlife’s balance. Their conflicts with Spectres are not only survival-based but spiritual—seen as a holy war for the soul of death itself.
 
------
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>
