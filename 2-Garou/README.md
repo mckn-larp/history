@@ -9,8 +9,6 @@ The Garou of Eastern Tennessee are locked in a spiritual and physical war agains
 
 You are one of Gaia’s warriors. Your pack is your family. The Wyrm is your enemy. And the battle is far from over.
 
----
-
 ## Where the Garou Hold Ground
 
 ### Septs and Sacred Sites
@@ -26,8 +24,6 @@ You are one of Gaia’s warriors. Your pack is your family. The Wyrm is your ene
 
 - **The Sept of the Broken Spear**  
   Located near **Brushy Mountain State Penitentiary**, this caern fell to the Wyrm in **2020**. Its loss deepened tension between Fenrir and Children of Gaia, who now work apart more often than together.
-
----
 
 ## Pack Presence and Goals
 
@@ -56,8 +52,6 @@ Garou packs are spread across rural Appalachia, using forests, mountains, and va
 - **Ember Vein**  
   Made up of kinfolk operatives and several **Fianna** Garou who blend into mortal life, **Ember Vein** manipulates and sabotages Wyrm-touched industries from within. Their influence in corporate and civic structures is as precise as it is deadly.
 
----
-
 ## What You Need to Know as a Player
 
 ### Your Job in the Story
@@ -68,8 +62,6 @@ You are Gaia’s chosen. You are one of the last defenders of a sacred land unde
 - Guard the **caerns** and uphold the **Litany**.
 - Balance **tradition and adaptation** in a modern world.
 - Endure the spiritual cost of the **Sabbat alliance**—or fight against it.
-
----
 
 ## For Players: Themes to Explore
 
