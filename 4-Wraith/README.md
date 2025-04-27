@@ -66,5 +66,5 @@ Fragmented and traumatized, wraiths forge bonds out of necessity rather than tru
 Wraiths deal in artifacts, soulforged relics, and forbidden secrets. The arrival of the Harbingers has added occult knowledge and barter to this spiritual economy.
 
 ### Religion
-Religion for wraiths revolves around honoring the dead and preserving the afterlife’s balance. Their conflicts with Spectres are not only survival-based but spiritual—seen as a holy war for the soul of death itself.
+Religion for wraiths revolves around honoring the dead and preserving the afterlife’s balance. Their conflicts with Spectres are not only survival-based but spiritual—seen as a war for the soul of death itself.
 

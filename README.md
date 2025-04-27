@@ -42,7 +42,7 @@ The Sabbat control **Knoxville** and its immediate surrounds, having ousted riva
 - The Sabbat are monsters—but they’re your monsters. You fight for survival and dominance.
 - Trust is fleeting. Power is earned in blood and fire.
 - Public loyalty hides private schemes. Play politics carefully.
-- Religious fervor is real: your war is holy, and **Knoxville is sacred ground**.
+- Religious fervor is real: your war is reail, and **Knoxville is sacred ground**.
 - Expect inner conflict: balancing defense against the Wyrm with the drive to subvert the Garou compact.
 
 ## [Garou](./2-Garou/README.md)

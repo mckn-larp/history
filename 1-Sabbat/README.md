@@ -12,7 +12,7 @@ In a rare and uneasy alliance, the Sabbat have forged a **fragile compact with t
 
 Political maneuvering, clandestine conflicts, and a nightly struggle for spiritual purity define unlife here. Every Esbat, every whispered meeting in the shadows, is another battle in the war to protect Knoxville from annihilation—and to prove worthy in the eyes of Caine himself.
 
-The **holy war is real**. And here, it is personal.
+The **war is real**. And here, it is personal.
 
 ## Key Locations
 
@@ -133,8 +133,8 @@ These figures are not mere background—they are forces that will **shape your p
 - **Brutal, Relentless, Religious.**  
   Knoxville’s Sabbat are monsters—but they are **monsters with purpose**. Blood, pain, and faith define their nights. Here, cruelty is not senseless; it is sacred.
 
-- **Holy War Against Corruption.**  
-  Every decision, every ritual, every mission feeds into the larger crusade against the Wyrm, the Antediluvians, and spiritual decay. You are not just a survivor—you are a **soldier of Caine’s holy mission**.
+- **War Against Corruption.**  
+  Every decision, every ritual, every mission feeds into the larger crusade against the Wyrm, the Antediluvians, and spiritual decay. You are not just a survivor—you are a **soldier of Caine’s war**.
 
 - **Political Intrigue Beneath Violence.**  
   Power struggles simmer under every Esbat. Advancement requires ambition, loyalty, cunning, and faith—often all at once.
@@ -144,8 +144,9 @@ These figures are not mere background—they are forces that will **shape your p
 
 ### How to Fit In
 
-- **Pick a Role Within Your Pack.**  
-  Are you the warrior, the mystic, the strategist, the diplomat, the spy? Find your place—and **make yourself indispensable**.
+- **Find Your Place Within the Pack.**  
+  Are you the shock trooper leading the charge, the priest maintaining the pack's spiritual purity, the Ductus commanding your warband, or the cunning saboteur striking at enemies from the shadows?  
+  Every Cainite is expected to serve a purpose — through strength, faith, or ruthless cunning. **Know your purpose. Serve it without hesitation.**
 
 - **Respect the Rite.**  
   **Esbats** and **Ritae** are sacred. Participation is not optional. Even rebels and outcasts must bow to the ancient rituals that bind the Sabbat together.
@@ -187,7 +188,7 @@ Or will you find yourself whispering back to the darkness that whispers first to
 Ritae shape the Sabbat’s identity.  
 Esbats renew loyalty, bind wounds, forge warriors, and purify corruption.  
 Each pack has a place within the great rite—but the rites are more than tradition.  
-They **define who you are**: servant of Caine, predator of the night, holy weapon against the Antediluvians.
+They **define who you are**: servant of Caine, predator of the night, a weapon against the Antediluvians.
 
 **Abandon the ritae, and you are no better than the Wyrm-tainted scum you fight.**
 
@@ -217,7 +218,7 @@ Your character’s journey will weave through these themes. Whether you rise to 
 
 ## Final Thought
 
-Knoxville is not just another battleground—it is **holy ground**, a sacred flame struggling against an ocean of corruption and despair.
+Knoxville is not just another battleground—it is the **front line**, a flame struggling against an ocean of corruption and despair.
 
 You are not an observer.  
 You are a weapon.  
@@ -226,7 +227,7 @@ You are a monster of purpose.
 
 Every Esbat tests your loyalty.  
 Every hunt sharpens your fury.  
-Every betrayal feeds the soil of your unholy crusade.
+Every betrayal feeds the soil of your crusade.
 
 The Wyrm festers in Oak Ridge.  
 The Antediluvians plot their return from slumber.  
