@@ -1,8 +1,7 @@
 # Mages of Eastern Tennessee
 
-[← Back to History](../README.md)  
+---
 
------
 ## Overview
 
 Eastern Tennessee is a magical battleground. The region is steeped in spiritual history and humming with ley lines and nodes that both empower and endanger. Mages of all stripes—Traditions, Technocrats, Disparates—vie for control, each with their own agendas and allies.

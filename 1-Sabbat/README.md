@@ -1,6 +1,6 @@
 # Sabbat of Eastern Tennessee
 
-[← Back to History](../README.md)
+---
 
 ## Summary
 

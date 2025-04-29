@@ -1,8 +1,7 @@
 # Changelings of Eastern Tennessee
 
-[← Back to History](../README.md)  
+---
 
------
 ## Presence in the Region
 
 Changelings in Eastern Tennessee come in two broad groups: the Nunnehi (Native American Fae) and European-descended Seelie and Unseelie Courts. The Nunnehi are spiritual guardians rooted in Cherokee traditions, operating in natural sites like Cades Cove, Abrams Creek, and the Great Smoky Mountains. They protect sacred places, maintain harmony between realms, and fight corruption—particularly that of the Wyrm and Technocracy.

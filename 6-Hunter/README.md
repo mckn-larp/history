@@ -1,9 +1,8 @@
 # Hunters of Eastern Tennessee
 
-[← Back to History](../README.md)  
+---
 
------
-### Overview
+## Overview
 
 Hunters in Eastern Tennessee are awakening to a truth far more complex than any cryptid legend or ghost story. Once isolated defenders of their towns and traditions, these individuals are now part of a hidden war between ancient supernatural factions—Sabbat vampires, Garou, wraiths, Fae, and the corrupting power of the Wyrm. Whether motivated by faith, vengeance, duty, or curiosity, each hunter group brings a different philosophy and strategy to the battlefield.
 

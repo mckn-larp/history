@@ -1,15 +1,14 @@
 # Cosmology of Knoxville and Eastern Tennessee
 
-[← Back to History](../README.md)  
+---
 
------
 ## Overview
 
 Eastern Tennessee is a spiritual pressure point where the Gauntlet thins, the Shadowlands ripple with unrest, and hidden paths wind through the Umbra and beyond. The region is layered with mystic energy, overlapping realities, and sacred boundaries—both protected and contested by mages, wraiths, Garou, Changelings, and other supernatural beings. These realms aren't abstract metaphysics—they’re lived-in, dangerous, and deeply tied to the land’s history of conflict, industrial growth, and forgotten tragedy.
 
 This guide explores the hidden spiritual realms that intersect with the physical world of Eastern Tennessee.
 
----
+## The PHysical World
 
 ## The Umbra
 

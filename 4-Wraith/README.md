@@ -1,8 +1,7 @@
 # Wraiths of Eastern Tennessee
 
-[← Back to History](../README.md)  
+---
 
------
 ## Overview
 
 Eastern Tennessee is one of the most haunted regions in America, and Knoxville stands at the center of it. The Shadowlands here are dense with the spirits of those who met tragic ends—Native peoples displaced in the Trail of Tears, soldiers of the Civil War, miners lost to industrial disaster, and forgotten dead from Knoxville’s urban decay. These wraiths are bound to the places where their stories ended and often clash with living supernaturals who threaten their fragile existence.
