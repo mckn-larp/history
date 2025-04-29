@@ -8,8 +8,12 @@
   <a href="https://github.com/mckn-larp"><img alt="Chronicle Repo" src="https://img.shields.io/badge/Chronicle-Repo-blue?style=for-the-badge&logo=github" /></a>
 </p>
 
----
 # Player Brief: Knoxville & Eastern Tennessee
+
+---
+
+**Date:** *2025-APR-29*  
+**Version:** *1.0.0 - Ashfall Shiver Misty*
 
 ## What You Need to Know
 

@@ -304,9 +304,16 @@ if $EXPORT_EPUB; then
         find "$INPUT_DIR" -type d -name Media | while read -r media_dir; do
             find "$media_dir" -type f \( -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.webp" -o -iname "*.svg" \) | while read -r img; do
                 base="$(basename "$img" | sed -E 's/\.[a-zA-Z0-9]+$//')"
-                out_file="$STAGING_DIR/${base}.png"
+                out_file="$STAGING_DIR/${base}.jpg"
                 echo "  + Converting $img → $out_file"
-                convert "$img" -resize '600x600>' "$out_file" 2>/dev/null
+                
+                if [[ "$img" =~ \.svg$ ]]; then
+                    # Copy SVG directly (or optimize if you want)
+                    cp "$img" "$STAGING_DIR/${base}.svg"
+                else
+                    # Convert everything else to JPEG (high compression, good quality)
+                    convert "$img" -resize '1600x1600>' -quality 85 "$out_file" 2>/dev/null
+                fi
             done
         done
 
@@ -321,7 +328,7 @@ if $EXPORT_EPUB; then
                 if echo "$path" | grep -qE '^https?://'; then
                     echo "$line" >> "$TEMP_MD_REWRITTEN"
                 else
-                    filename=$(basename "$path" | sed -E 's/\.[a-zA-Z0-9]+$/.png/')
+                    filename=$(basename "$path" | sed -E 's/\.[a-zA-Z0-9]+$/.jpg/')
                     alt_text=$(echo "$line" | sed -nE 's/.*!\[([^]]*)\]\(.*/\1/p')
                     echo "<figure style=\"text-align: center; margin: 1em 0;\">" >> "$TEMP_MD_REWRITTEN"
                     echo "  <img src=\"$filename\" alt=\"$alt_text\" style=\"width: 2.5in; max-width: 100%; height: auto;\" />" >> "$TEMP_MD_REWRITTEN"
@@ -369,6 +376,30 @@ if $EXPORT_EPUB; then
             ${COVER_IMAGE:+--epub-cover-image="$COVER_IMAGE"}
 
         echo "EPUB created: $OUTPUT_EPUB"
+
+        # Recompress EPUB
+        if command -v zip >/dev/null 2>&1; then
+            echo "Optimizing EPUB size..."
+            WORK_DIR=$(mktemp -d)
+            ORIGINAL_EPUB="$OUTPUT_EPUB"
+            TEMP_EPUB="$WORK_DIR/temp.epub"
+
+            unzip -q "$ORIGINAL_EPUB" -d "$WORK_DIR"
+            rm "$ORIGINAL_EPUB"
+
+            (
+            cd "$WORK_DIR" || exit 1
+            zip -X0 "$TEMP_EPUB" mimetype
+            zip -Xr9D "$TEMP_EPUB" * -x mimetype
+            )
+
+            mv "$TEMP_EPUB" "$ORIGINAL_EPUB"
+            rm -rf "$WORK_DIR"
+            echo "EPUB optimization complete."
+        else
+            echo "zip command not found. Skipping EPUB optimization."
+        fi
+
         rm -f "$TEMP_MD" "$TEMP_MD.header" "$TEMP_MD.final" "$TEMP_MD_REWRITTEN"
         rm -rf "$STAGING_DIR"
         rm -rf "$OUTPUT_DIR/empty-title.txt"
