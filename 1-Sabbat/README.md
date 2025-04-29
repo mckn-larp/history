@@ -71,7 +71,7 @@ Control is never static. Packs are expected to patrol, defend, and sometimes ble
    Growth is survival. The Sabbat eye nearby cities as future holdings. Jefferson City and Morristown offer strategic footholds for controlling transportation routes, mortal populations, and potential nexuses of power. Packs willing to spearhead expansion efforts may earn rapid advancement and favor.
 
 4. **Manage Internal Dissent and Competing Ambitions**  
-   In Knoxville, ambition is a double-edged sword. Packs jockey for influence, Bishops maneuver behind closed doors, and Dominions test loyalty with calculated cruelty. The Archbishop tolerates ambition—so long as it does not fracture Sabbat unity. Leaders rise and fall with brutal speed, and betrayal is punished by public, ritualized annihilation.
+   In Knoxville, ambition is a double-edged sword. Packs jockey for influence, Bishops maneuver behind closed doors, and Archbishop's test loyalty with calculated cruelty. The Archbishop tolerates ambition—so long as it does not fracture Sabbat unity. Leaders rise and fall with brutal speed, and betrayal is punished by public, ritualized annihilation.
 
 5. **Undermine the Garou Compact Without Breaking It Overtly**  
    The truce with the Garou is one of necessity, not friendship. The Sabbat view the alliance as temporary—useful only until the Wyrm's threat is neutralized. Subtle sabotage, strategic insults, and covert manipulations are encouraged to erode Garou trust, preparing for an inevitable return to open conflict.
@@ -98,7 +98,7 @@ Every action your character takes—every mission, every Esbat, every whispered 
 ### Templar Gabrielle Durand
 - **Role:** Political Advisor and Diplomatic Blade
 - **Overview:**  
-  Once a Toreador of high society, Gabrielle now serves as Sophia’s right hand in matters of **politics, diplomacy, and assassination**. Behind her polished charm lies a ruthlessness that rivals any dominion’s.
+  Once a Toreador of high society, Gabrielle now serves as Sophia’s right hand in matters of **politics, diplomacy, and assassination**. Behind her polished charm lies a ruthlessness that rivals any Archbis.
 - **Reputation:**  
   Smiling danger. Those who underestimate her typically don't survive their first mistake.
 
