@@ -18,13 +18,18 @@ Your pack is your shield, your spirit is your weapon, and your enemy—whether W
 
 **The battle is far from over. The burden now falls to you.**
 
+---
+
 ## Where the Garou Hold Ground
 
 ### Septs and Sacred Sites
 
 - **The Sept of the Sentinel**  
-  Hidden deep within the misty forests of **Great Smoky Mountains National Park**, the Sept of the Sentinel stands as one of the oldest strongholds of spiritual power in the region.  
-  Guarded fiercely by the **Uktena** and **Wendigo**, the caern here resonates with ancient magic and ancestral wisdom. Rituals honoring the spirits of the land are performed nightly, and the sept serves as a refuge for Garou seeking healing, visions, or guidance.
+  Reawakened in **early 2017** following the devastating **Chimney Top 2 fires**, the Sept of the Sentinel now stands as a powerful Wyld-aligned caern on the **western edge of Great Smoky Mountains National Park**.  
+  Once a dormant site of deep Uktena and Wendigo history, the caern has been reborn under the guidance of newly awakened spirits, and is now **open to all tribes** who seek to defend Gaia’s wild soul.  
+  The fire that ravaged the forest also peeled back the spiritual layers of the land, allowing a potent Wyld spirit to surge forth and reclaim its place.  
+  While old traditions linger, the sept now thrives with inclusivity and renewal, serving as both sanctuary and staging ground for spiritual warriors, vision seekers, and caern defenders.  
+  Its eastern counterpart, the **Sept of the Changing Seasons**, continues to guard the park's opposite flank, in careful alliance.
 
 - **The Sept of the Sacred Stone**  
   Located south of **Adams Mill**, this sept lies amid rolling hills and ancient groves.  
@@ -35,6 +40,15 @@ Your pack is your shield, your spirit is your weapon, and your enemy—whether W
   Nestled near **LaFollette, Tennessee**, close to the Kentucky border, the Green Mountain Sept stands as a critical northern watchpost.  
   It is guarded by an uneasy alliance between the **Get of Fenris** and the **Children of Gaia**, who work together to protect the caern despite deep ideological differences.  
   Here, strength and diplomacy must exist side by side, though tensions run high after past failures.
+
+- **The Sept of the Changing Seasons**  
+  Nestled atop **Blanket Mountain**, this sept lies within the Tennessee side of the **Great Smoky Mountains National Park**, near Gatlinburg.  
+  It is a **healing caern** of considerable power, marked by its ties to the **Fianna**, **Silver Fangs**, and **Children of Gaia**, who jointly administer the site.  
+  The sept focuses on spiritual renewal and protection of sacred places, including efforts to reintegrate native wolf populations and safeguard the land from overdevelopment and spiritual decay.  
+  Due to the park's visibility and heavy tourist presence, the Garou must navigate their sacred duties while mitigating threats from pollution, encroachment, and mundane attention.  
+  The caern’s heart lies in a sacred glade near a spring pool where the totem **Salamander** once appeared in answer to a vision quest.  
+  The sept actively monitors supernatural activity across the eastern edge of the park, balancing its spiritual mission with quiet vigilance against the Wyrm and Weaver alike.
+  [NPC Sept controlled by the CBC Office]
 
 - **The Sept of the Broken Spear**  
   Near the infamous **Brushy Mountain State Penitentiary**, this once-proud caern fell to the Wyrm in **2020**.  
@@ -49,6 +63,8 @@ While cities are mostly avoided or infiltrated through kinfolk proxies, the wild
 Every caern is a sanctuary.  
 Every mountain trail could lead to battle.  
 Every quiet glade could become a last stand.
+
+---
 
 ## Pack Presence and Goals
 
