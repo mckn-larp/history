@@ -12,8 +12,8 @@
 
 ---
 
-**Date:** *2025-APR-29*  
-**Version:** *1.0.1 - Ashfall Shiver Crypt*
+**Date:** *2025-JUL-10*  
+**Version:** *1.0.5 - Ashfall Shiver Thorn*
 
 ## What You Need to Know
 

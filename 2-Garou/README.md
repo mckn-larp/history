@@ -32,12 +32,12 @@ Your pack is your shield, your spirit is your weapon, and your enemy—whether W
   Its eastern counterpart, the **Sept of the Changing Seasons**, continues to guard the park's opposite flank, in careful alliance.
 
 - **The Sept of the Sacred Stone**  
-  Located south of **Adams Mill**, this sept lies amid rolling hills and ancient groves.  
+  Located south of **Wolf Creek**, this sept lies amid rolling hills and ancient groves.  
   Tended by the **Black Furies**, it represents a fierce defense of Gaia's natural beauty against creeping industrialization. Sacred groves, untouched streams, and hidden moonlit clearings serve as places of worship, defense, and training.  
   However, corporate expansion tied to Wyrm-tainted industries now threatens the borders of this sacred ground.
 
 - **The Sept of the Green Mountain**  
-  Nestled near **LaFollette, Tennessee**, close to the Kentucky border, the Green Mountain Sept stands as a critical northern watchpost.  
+  Nestled near **Anderson County Park & Norris Lake, Tennessee**, the Green Mountain Sept stands as a critical northern watchpost.  
   It is guarded by an uneasy alliance between the **Get of Fenris** and the **Children of Gaia**, who work together to protect the caern despite deep ideological differences.  
   Here, strength and diplomacy must exist side by side, though tensions run high after past failures.
 
@@ -47,11 +47,12 @@ Your pack is your shield, your spirit is your weapon, and your enemy—whether W
   The sept focuses on spiritual renewal and protection of sacred places, including efforts to reintegrate native wolf populations and safeguard the land from overdevelopment and spiritual decay.  
   Due to the park's visibility and heavy tourist presence, the Garou must navigate their sacred duties while mitigating threats from pollution, encroachment, and mundane attention.  
   The caern’s heart lies in a sacred glade near a spring pool where the totem **Salamander** once appeared in answer to a vision quest.  
-  The sept actively monitors supernatural activity across the eastern edge of the park, balancing its spiritual mission with quiet vigilance against the Wyrm and Weaver alike.
+  The sept actively monitors supernatural activity across the eastern edge of the park, balancing its spiritual mission with quiet vigilance against the Wyrm and Weaver alike.  
+
   [NPC Sept controlled by the CBC Office]
 
 - **The Sept of the Broken Spear**  
-  Near the infamous **Brushy Mountain State Penitentiary**, this once-proud caern fell to the Wyrm in **2020**.  
+  North of the infamous **Brushy Mountain State Penitentiary**, this once-proud caern fell to the Wyrm in **2020**.  
   The loss haunts the Garou still. Its fall divided the Fenrir and the Children of Gaia even further, sowing distrust that lingers even in council and moot.  
   The land around Broken Spear is tainted and dangerous, patrolled only by the most battle-hardened or desperate Garou.
 
