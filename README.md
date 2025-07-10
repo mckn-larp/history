@@ -51,8 +51,8 @@ The **Garou** defend what’s left of Gaia in Eastern Tennessee. They protect **
 
 ### Key Places
 - **Sept of the Sentinel** (Smoky Mountains): Defended by **Uktena** and **Wendigo**, this caern is sacred and fiercely guarded.
-- **Sept of the Sacred Stone** (Adams Mill): A **Black Fury** stronghold, tied to feminine spiritual power and ancient rites.
-- **Sept of Green Mountain** (LaFollette): Run jointly by **Get of Fenris** and **Children of Gaia**, this site balances war and peace.
+- **Sept of the Sacred Stone** (Wolf Creek): A **Black Fury** stronghold, tied to feminine spiritual power and ancient rites.
+- **Sept of Green Mountain** (Anderson County Park): Run jointly by **Get of Fenris** and **Children of Gaia**, this site balances war and peace.
 - **Sept of the Broken Spear** (Brushy Mountain): Now **lost to the Wyrm**—a cautionary tale and potential battlefield.
 - **Umbra Veins**: Thin spots in the Gauntlet near old mining sites, sometimes used to stage spiritual counterattacks.
 
