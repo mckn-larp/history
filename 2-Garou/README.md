@@ -8,7 +8,7 @@ The Garou of Eastern Tennessee are **warriors of spirit and fang**, bound to a l
 For generations, they have fought to defend **Gaia’s sacred sites**—the caerns—from the insidious reach of the **Wyrm**.  
 Now, they face a war on two fronts: battling ancient corruption leaking from the festering wound of **Oak Ridge**, and struggling with the uneasy truce they've forged with an unlikely ally—the **Sabbat vampires**.
 
-This alliance, born of desperate necessity, has driven a wedge into Garou society.  
+This "agreement", born of desperate necessity, has driven a wedge into Garou society.  
 Younger Garou question whether survival is worth the cost of compromise.  
 Elders cling to the belief that the greater war demands sacrifice, even if it means standing beside once-hated enemies.
 
@@ -29,7 +29,7 @@ Your pack is your shield, your spirit is your weapon, and your enemy—whether W
   Once a dormant site of deep Uktena and Wendigo history, the caern has been reborn under the guidance of newly awakened spirits, and is now **open to all tribes** who seek to defend Gaia’s wild soul.  
   The fire that ravaged the forest also peeled back the spiritual layers of the land, allowing a potent Wyld spirit to surge forth and reclaim its place.  
   While old traditions linger, the sept now thrives with inclusivity and renewal, serving as both sanctuary and staging ground for spiritual warriors, vision seekers, and caern defenders.  
-  Its eastern counterpart, the **Sept of the Changing Seasons**, continues to guard the park's opposite flank, in careful alliance.
+  Its eastern counterpart, the **Sept of the Changing Seasons**, continues to guard the park's opposite flank, in careful "agreement".
 
 - **The Sept of the Sacred Stone**  
   Located south of **Wolf Creek**, this sept lies amid rolling hills and ancient groves.  
@@ -38,7 +38,7 @@ Your pack is your shield, your spirit is your weapon, and your enemy—whether W
 
 - **The Sept of the Green Mountain**  
   Nestled near **Anderson County Park & Norris Lake, Tennessee**, the Green Mountain Sept stands as a critical northern watchpost.  
-  It is guarded by an uneasy alliance between the **Get of Fenris** and the **Children of Gaia**, who work together to protect the caern despite deep ideological differences.  
+  It is guarded by an uneasy "agreement" between the **Get of Fenris** and the **Children of Gaia**, who work together to protect the caern despite deep ideological differences.  
   Here, strength and diplomacy must exist side by side, though tensions run high after past failures.
 
 - **The Sept of the Changing Seasons**  
@@ -85,7 +85,7 @@ Secrecy, adaptability, and tenacity define survival.
 - **Patrol border zones** near Oak Ridge, ensuring the Wyrm's influence does not spread unchecked.
 - **Recruit new Garou and kinfolk**, ensuring the future of the Garou Nation.
 - **Balance tradition and innovation**, preparing younger Garou to inherit a world very different from the one their elders knew.
-- **Monitor the Sabbat alliance**, watching for inevitable betrayal while leveraging it for short-term gains.
+- **Monitor the Sabbat "agreement"**, watching for inevitable betrayal while leveraging it for short-term gains.
 - **Reclaim lost territories**, with long-term goals to purify or retake sites like the Sept of the Broken Spear.
 
 **Note for Players:**  
@@ -171,7 +171,7 @@ You are expected to:
   The old ways are sacred, but survival sometimes demands new tactics.  
   Garou must find a way to honor the past without dooming the future.
 
-- **Endure the Spiritual Cost of the Sabbat Alliance — or Fight It.**  
+- **Endure the Spiritual Cost of the Sabbat "agreement" — or Fight It.**  
   Not all Garou accept the truce with the vampires.  
   Some endure it out of necessity. Others burn with rage at the compromise.  
   Your stance will define your character's place within the Nation.
@@ -184,19 +184,19 @@ Your pack is your shield, your heart, and your future. Without them, you are alr
 
 ### Political Themes
 
-- **Leadership Struggles Over the Sabbat Compact**  
-  The alliance with the Sabbat has fractured old loyalties and ignited new political fires.  
+- **Leadership Struggles Over the Sabbat "Agreement"**  
+  The "agreement" with the Sabbat has fractured old loyalties and ignited new political fires.  
   Elders argue for survival above all else. Younger Garou question whether survival at the cost of honor is worth anything at all.
 
 - **Tensions Between Generations**  
   Young Garou see a world slipping away.  
-  They challenge traditional methods and question the wisdom of those who forged the alliance.  
+  They challenge traditional methods and question the wisdom of those who forged the "agreement".  
   Elders see them as reckless children who do not understand the cost of war.
 
 - **Negotiations with Mortals and Supernaturals**  
   Battles are not fought with tooth and claw alone.  
   Mortals, spirits, and other supernatural beings influence the region.  
-  Territory must be protected, but so must political alliances and ancient pacts.
+  Territory must be protected, but so must political "agreement"s and ancient pacts.
 
 ### Social Themes
 
@@ -209,7 +209,7 @@ Your pack is your shield, your heart, and your future. Without them, you are alr
   Every Garou must navigate where they stand in the growing divide.
 
 - **The Cost of Survival**  
-  The alliance with the Sabbat is a wound on the Nation's spirit.  
+  The "agreement" with the Sabbat is a wound on the Nation's spirit.  
   Every Garou must decide what sacrifices they are willing to make—and what lines they refuse to cross.
 
 ### Economic Themes
@@ -237,7 +237,7 @@ Your pack is your shield, your heart, and your future. Without them, you are alr
   Losing one is like losing a piece of Gaia herself.
 
 - **Theological Doubt**  
-  The alliance with the Sabbat shakes faith to its core.  
+  The "agreement" with the Sabbat shakes faith to its core.  
   Some Garou whisper that by standing beside the undead, they risk becoming the very corruption they are sworn to fight.  
   Others argue that desperate times demand desperate measures.
 
@@ -248,7 +248,7 @@ Exploring these themes through your character's struggles, choices, and sacrific
 
 The Garou of Eastern Tennessee stand at the edge of a precipice.
 
-Surrounded by corruption, outnumbered by enemies, and burdened by uneasy alliances, they fight not just for survival — they fight for the soul of the Earth itself.
+Surrounded by corruption, outnumbered by enemies, and burdened by uneasy "agreement"s, they fight not just for survival — they fight for the soul of the Earth itself.
 
 You are not a bystander.  
 You are Gaia's warrior, born of fang, spirit, and fury.  
