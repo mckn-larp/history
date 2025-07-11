@@ -6,7 +6,7 @@
 
 The Garou of Eastern Tennessee are **warriors of spirit and fang**, bound to a land that bleeds both beauty and corruption.  
 For generations, they have fought to defend **Gaia’s sacred sites**—the caerns—from the insidious reach of the **Wyrm**.  
-Now, they face a war on two fronts: battling ancient corruption leaking from the festering wound of **Oak Ridge**, and struggling with the uneasy truce they've forged with an unlikely ally—the **Sabbat vampires**.
+Now, they face a war on two fronts: battling ancient corruption leaking from the festering wound of **Oak Ridge**, and struggling with the uneasy truce they've forged with an unlikely connection — the **Sabbat vampires**.
 
 This "agreement", born of desperate necessity, has driven a wedge into Garou society.  
 Younger Garou question whether survival is worth the cost of compromise.  
