@@ -112,7 +112,7 @@ Every action your character takes—every mission, every Esbat, every whispered 
 ### Minenhle Masondo
 - **Role:** Spiritual Leader of Orthodoxy
 - **Overview:**  
-  A fierce Lasombra priest, Minenhle is tasked with maintaining the spiritual purity of Knoxville’s Sabbat. His sermons bind packs together—and occasionally divide them when his zealotry goes too far. His loyalty to Sophia is unwavering, but his personal ambitions remain a topic of hushed speculation.
+  A fierce Tzimisce priest, Minenhle is tasked with maintaining the spiritual purity of Knoxville’s Sabbat. His sermons bind packs together—and occasionally divide them when his zealotry goes too far. His loyalty to Sophia is unwavering, but his personal ambitions remain a topic of hushed speculation.
 - **Reputation:**  
   Firebrand preacher. His words ignite loyalty—or suspicion.
 
