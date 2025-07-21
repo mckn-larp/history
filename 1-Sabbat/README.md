@@ -117,9 +117,9 @@ Every action your character takes—every mission, every Esbat, every whispered 
   Firebrand preacher. His words ignite loyalty—or suspicion.
 
 ### Gudrun
-- **Role:** Black Hand Liaison
+- **Role:** Black Hand
 - **Overview:**  
-  Gudrun, a brutal Brujah Antitribu, represents the **Black Hand’s** interests in Knoxville. She acts both as enforcer and recruiter, drawing the city's most promising killers into deeper, darker service. Her presence is a reminder that Knoxville is not isolated—the Sabbat at large watches.
+  Gudrun, a brutal Gangrel Antitribu, represents the **Black Hand’s** interests in Knoxville. She acts both as enforcer and recruiter, drawing the city's most promising killers into deeper, darker service. Her presence is a reminder that Knoxville is not isolated—the Sabbat at large watches.
 - **Reputation:**  
   Unflinching, remorseless. Packs who attract her attention either rise swiftly... or vanish.
 
